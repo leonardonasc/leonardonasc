@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo ao meu perfil do Git 😎
-Atualmente estou buscando conhecimento e oportunidades na parte de front-end, com ênfase em React e Typescript;
-
+Atualmente buscando conhecimento e oportunidades na área de front-end, com ênfase em React e Typescript; <br/>
+- Lembrando que meu perfil está em construção, algumas informações e commits de projetos ainda não estão 100% por aqui mas estarei colocando conforme for organizando eles. 😉
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardonasc&show_icons=true&theme=dracula)
 
