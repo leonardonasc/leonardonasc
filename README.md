@@ -1,7 +1,4 @@
 ## Olá, seja bem-vindo ao meu perfil do Git 😎
-Buscando conhecimento e oportunidades na área de front-end, com ênfase em React e Typescript. <br/>
-Atualmente cursando Oracle Next Education pela Alura.
-
 
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardonasc&show_icons=true&theme=dracula) 
 
