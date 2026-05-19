@@ -40,8 +40,6 @@ Currently pursuing a degree in Systems Analysis and Development at Estácio.
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img alt="tableplus" src="https://img.shields.io/badge/TablePlus-FFFFFF?style=for-the-badge&logo=tableplus&logoColor=000" />
-  <img alt="vscode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
 
 ## languages
