@@ -32,7 +32,6 @@ Currently pursuing a degree in Systems Analysis and Development at Estácio.
 <div align="left">
   <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img alt="neondb" src="https://img.shields.io/badge/NeonDB-00E699?style=for-the-badge&logo=neondb&logoColor=000" />
 </div>
 
