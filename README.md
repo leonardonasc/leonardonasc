@@ -1,6 +1,6 @@
 # Leonardo Nascimento
 
-Front-end developer focused on modern web applications, intuitive interfaces and scalable experiences.
+FullStack developer focused on modern web applications, intuitive interfaces and scalable experiences.
 
 Currently pursuing a degree in Systems Analysis and Development at Estácio.
 
